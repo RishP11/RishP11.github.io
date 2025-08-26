@@ -1,200 +1,111 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Rishabh Sharad Pomaje",
+    "email": "rishabhpomaje11@gmail.com",
+    "url": "https://rishp11.github.io/",
+    "summary": "An Electrical Engineering student with a strong foundation. Interested to do research in Computer Architecture, Digital VLSI Design, Communication Systems, Embedded Systems, and Machine Learning. Driven by a commitment to continuous learning and a passion for tackling complex, interdisciplinary challenges. Eager to contribute to cutting-edge research."
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Indian Institute of Technology Dharwad",
+      "location": "Karnataka, India",
+      "url": "https://www.iitdh.ac.in/",
+      "area": "Dept. of Electrical, Electronics, and Communication Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2021-12",
+      "endDate": "2025-07",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Digital Systems and Lab, Digital Signal Processing, Microprocessors and Microcontrollers, Digital Communication and Coding Theory, Wireless Communications, VLSI Design, Embedded Systems Design and Lab, Next-Generation Wireless Networks, Mathematics for Data Science, Probability Models and Applications, Pattern Recognition and Machine Learning, Optimization Theory and Algorithms."]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "President of India Gold Medal",
+      "date": "2025-07-19",
+      "awarder": "IIT Dharwad",
+      "summary": "Awarded to the student demonstrating outstanding academic performance."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Age of Information Minimization in Goal-Oriented Communication with Processing and Cost of Actuation Error Constraints",
+      "publisher": "arXiv (submitted to IEEE Transactions on Communications; under-review)",
+      "releaseDate": "2025-06",
+      "url": "https://arxiv.org/abs/2508.07865",
+      "summary": "We study a goal-oriented communication system in which a source monitors an environment that evolves as a discrete-time, two-state Markov chain. At each time slot, a controller decides whether to sample the environment and if so whether to transmit a raw or processed sample, to the controller. Processing improves transmission reliability over an unreliable wireless channel, but incurs an additional cost. The objective is to minimize the long-term average age of information (AoI), subject to constraints on the costs incurred at the source and the cost of actuation error (CAE), a semantic metric that assigns different penalties to different actuation errors."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Karush-Kuhn-Tucker Condition-Trained Neural Networks (KKT Nets)",
+      "publisher": "arXiv",
+      "releaseDate": "2024-10",
+      "url": "https://arxiv.org/abs/2410.15973",
+      "summary": "This paper introduces a new approach to convex optimization problems, based on the fact that any set of primal or dual variables satisfying the Karush-Kuhn-Tucker (KKT) conditions is necessary for optimality. The approach uses Theory-Trained Neural Networks (TTNNs) and a KKT Loss loss function to measure the network's outputs. The study shows that minimizing the KKT Loss alone outperforms training with a weighted sum of KKT Loss and Data Loss."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Learning Short Codes for Fading Channels with No or Receiver-Only Channel State Information",
+      "publisher": "arXiv",
+      "releaseDate": "2024-09",
+      "url": "https://arxiv.org/abs/2409.08581",
+      "summary": "This study designs short-length codewords for next-generation wireless networks that don't use channel state information (CSI) or rely solely on CSI at the receiver (CSIR). The autoencoder architecture is used to achieve mutual orthogonality in the no-CSI case, but not in the CSIR-only case. The codes perform better than classical codes in both no-CSI and CSIR-only cases."
+    }
+  ],
+  "projects": [
+    {
+      "name": "DVB-S2X Implementation",
+      "summary": "Digital Video Broadcasting using Satellites Version 2 extension. ETSI standards implementation on a FPGA board. A part of ISRO RESPOND project. Supervised by Prof. Rajshekhar V. Bhat, IIT Dharwad",
+      "highlights": ["Jointly developed a primitive FPGA implementation in Verilog of the transmitter sub-system. Responsible for CRC-8 Encoder, Scrambler, BCH Encoder and other minor modules.", "Skills: Digital System Design, FPGA, HDL Coding, Matlab Coding and scripting", "Tools and Hardware: Vivado by AMD, Pynq-Z2 Development Board"],
+      "startDate": "2023-08",
+      "endDate": "2024-04"
+    },
+    {
+      "name": "Ultrasonic Sensor-based Parking Assist System",
+      "summary": "EE 615 Embedded Systems Design Course Project, IIT Dharwad",
+      "highlights": ["Developed a automotive parking sensor using TI TM4C123GH6PM microcontroller. The distance was captured using Ultrasonic sensor and displayed on small monochrome OLED display. Drivers for the OLED display were written from scratch.", "Embedded C coding (for Tiva Board), I2C communication for SSD1306-based OLED.", "Tools and Hardware: Code Composer Studio, Tiva C series TM4C123G LaunchPad Board, HC-SR04 sensor, 0.96in SSD1306 OLED display."],
+      "startDate": "2023-08",
+      "endDate": "2024-04"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C, C++, Python, Matlab, Verilog (HDL), Intel 8085/8051 assembly."
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "TensorFlow, PyTorch, OpenCV, Matplotlib, Seaborn, NumPy, Pandas, Scikit-Learn."
+      ]
+    },
+    {
+      "name": "Tools and Software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git VCS, KiCad, SPICE tools, AMD Vivado, Code Composer Studio, Inkscape,LaTeX."
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "language": "Hindi",
+      "fluency": "Fluent",
+      "icon": ""
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "Marathi",
+      "fluency": "Fluent and Native",
+      "icon": ""
     }
   ]
 }

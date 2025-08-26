@@ -32,3 +32,16 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+
+"rajshekharBhat":
+  - firstname: ["Rajshekhar V. Bhat"]
+    url: https://rajshekharvbhat.github.io/ 
+
+"nikosPappas":
+  - firstname: ["Nikolaos Pappas"]
+    url: https://pappas-nikolaos.github.io/index.html
+
+"jayanthS":
+  - firstname: ["Jayanth S."]
+    url: https://js2498.github.io/
