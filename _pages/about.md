@@ -6,7 +6,7 @@ subtitle: Electrical Engineer who loves to do research!
 
 profile:
   align: right
-  image: rishabh_pomaje_casual.jpg
+  image: rishabh_pomaje_casual.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Pune, Maharashtra, India.</p>
