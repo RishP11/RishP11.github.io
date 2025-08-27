@@ -6,8 +6,10 @@ img: assets/img/parking_sensor.svg
 importance: 2
 category: work
 ---
+[💻 Code](https://github.com/RishP11/Group02.git) | [📄 Documentation](https://github.com/RishP11/Group02/blob/master/README.md)
 
-This was a final project of the course - EE 615 Embedded Systems Design and Lab - I took during my fourth year. Initially, we (me and my team-mate) had only planned to use two sensors (imitating the front and rear of a car) and using different color LEDs as a visual aid to get a sense of distance. At the end (a day before the presentation 😅), I was able to write a driver for the 0.96in monochrome OLED display. Hence, we added a feature that output the distance to the obstruction in cm(s).
+
+This was a final project of the course - EE 615 Embedded Systems Design and Lab - I took during my fourth year. Initially, we (me and my team-mate) had only planned to use two sensors (imitating the front and rear of a car) and using different color LEDs as a visual aid to get a sense of distance. In the end (a day before the presentation 😅), I was able to write a driver for the 0.96in monochrome OLED display. Hence, we added a feature that output the distance to the obstruction in cm(s).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
