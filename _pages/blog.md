@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Blog
+title: Blog/Gallery/Misc.
 nav: true
 nav_order: 4
 pagination:
