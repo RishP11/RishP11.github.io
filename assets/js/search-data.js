@@ -30,19 +30,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
+        },{id: "nav-blog-gallery-misc",
+          title: "Blog/Gallery/Misc.",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-received-the-president-of-india-gold-medal-for-outstanding-academic-performance-during-my-undergrad",
+        },{id: "post-convocation",
+        
+          title: "Convocation",
+        
+        description: "Pics of 6th convocation at IIT Dharwad.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/convocation/";
+          
+        },
+      },{id: "news-i-received-the-president-of-india-gold-medal-for-outstanding-academic-performance-during-my-undergrad",
           title: 'I received the President of India Gold Medal for outstanding academic performance during...',
           description: "",
           section: "News",},{id: "projects-dvb-s2x",
