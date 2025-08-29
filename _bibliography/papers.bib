@@ -18,7 +18,8 @@
   bibtex_show={true},
   html={https://arxiv.org/html/2508.07865v1},
   pdf={https://arxiv.org/pdf/2508.07865},
-  pdf={notes_aoi_cae.pdf}
+  pdf={notes_aoi_cae.pdf},
+  abstract={We study a goal-oriented communication system in which a source monitors an environment that evolves as a discrete-time, two-state Markov chain. At each time slot, a controller decides whether to sample the environment and if so whether to transmit a raw or processed sample, to the controller. Processing improves transmission reliability over an unreliable wireless channel, but incurs an additional cost. The objective is to minimize the long-term average age of information (AoI), subject to constraints on the costs incurred at the source and the cost of actuation error (CAE), a semantic metric that assigns different penalties to different actuation errors. Although reducing AoI can potentially help reduce CAE, optimizing AoI alone is insufficient, as it overlooks the evolution of the underlying process. For instance, faster source dynamics lead to higher CAE for the same average AoI, and different AoI trajectories can result in markedly different CAE under identical average AoI. To address this, we propose a stationary randomized policy that achieves an average AoI within a bounded multiplicative factor of the optimal among all feasible policies. Extensive numerical experiments are conducted to characterize system behavior under a range of parameters. These results offer insights into the feasibility of the optimization problem, the structure of near-optimal actions, and the fundamental trade-offs between AoI, CAE, and the costs involved.}
 }
 
 @misc{arvind2024karushkuhntuckerconditiontrainedneuralnetworks,
@@ -32,7 +33,8 @@
   abbr={Pre-Print},
   preview={kkt_nets.png},
   bibtex_show={true},
-  pdf={https://arxiv.org/pdf/2410.15973}
+  pdf={https://arxiv.org/pdf/2410.15973},
+  abstract={This paper presents a novel approach to solving convex optimization problems by leveraging the fact that, under certain regularity conditions, any set of primal or dual variables satisfying the Karush-Kuhn-Tucker (KKT) conditions is necessary and sufficient for optimality. Similar to Theory-Trained Neural Networks (TTNNs), the parameters of the convex optimization problem are input to the neural network, and the expected outputs are the optimal primal and dual variables. A choice for the loss function in this case is a loss, which we refer to as the KKT Loss, that measures how well the network's outputs satisfy the KKT conditions. We demonstrate the effectiveness of this approach using a linear program as an example. For this problem, we observe that minimizing the KKT Loss alone outperforms training the network with a weighted sum of the KKT Loss and a Data Loss (the mean-squared error between the ground truth optimal solutions and the network's output). Moreover, minimizing only the Data Loss yields inferior results compared to those obtained by minimizing the KKT Loss. While the approach is promising, the obtained primal and dual solutions are not sufficiently close to the ground truth optimal solutions. In the future, we aim to develop improved models to obtain solutions closer to the ground truth and extend the approach to other problem classes.}
 }
 
 @misc{pomaje2024learningshortcodesfading,
@@ -47,5 +49,6 @@
   preview={learning_codes.png},
   bibtex_show={true},
   html={https://arxiv.org/html/2409.08581v1},
-  pdf={https://arxiv.org/pdf/2409.08581}
+  pdf={https://arxiv.org/pdf/2409.08581},
+  abstract={In next-generation wireless networks, low latency often necessitates short-length codewords that either do not use channel state information (CSI) or rely solely on CSI at the receiver (CSIR). Gaussian codes that achieve capacity for AWGN channels may be unsuitable for these no-CSI and CSIR-only cases. In this work, we design short-length codewords for these cases using an autoencoder architecture. From the designed codes, we observe the following: In the no-CSI case, the learned codes are mutually orthogonal when the distribution of the real and imaginary parts of the fading random variable has support over the entire real line. However, when the support is limited to the non-negative real line, the codes are not mutually orthogonal. For the CSIR-only case, deep learning-based codes designed for AWGN channels perform worse in fading channels with optimal coherent detection compared to codes specifically designed for fading channels with CSIR, where the autoencoder jointly learns encoding, coherent combining, and decoding. In both no-CSI and CSIR-only cases, the codes perform at least as well as or better than classical codes of the same block length.}
 }
