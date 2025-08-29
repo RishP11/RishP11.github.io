@@ -29,4 +29,4 @@ I completed my bachelors at Department of EECE at Indian Institute of Technology
 
 Beyond academics, I am enthusiastic about technology, consumer electronics, engineering innovations, scientific advancements, and an automotive enthusiast who follows Formula 1.
 
-Welcome to page! Feel free to connect.
+Feel free to connect.

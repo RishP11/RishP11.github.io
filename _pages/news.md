@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nnews
+title: News
 permalink: /news/
 ---
 
