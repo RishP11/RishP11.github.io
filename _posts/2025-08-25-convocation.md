@@ -3,7 +3,7 @@ layout: post
 title: Convocation 
 date: 2025-07-19 
 description: Pics of 6<sup>th</sup> convocation at IIT Dharwad. 
-thumbnail: assets/img/iitdh_convo/0O8A9005.jpg
+# thumbnail: assets/img/iitdh_convo/0O8A9005.jpg
 images:
   lightbox2: true
   photoswipe: true
