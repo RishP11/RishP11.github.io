@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-convocation",
+        },{id: "post-formula-1-a-beginner-39-s-guide",
+        
+          title: "Formula 1 - A Beginner&#39;s Guide",
+        
+        description: "A distilled introduction to one of the fiercest sports in the world.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/formula1/";
+          
+        },
+      },{id: "post-convocation",
         
           title: "Convocation",
         
