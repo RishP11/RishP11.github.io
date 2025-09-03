@@ -13,7 +13,7 @@ images:
 
 A collection of pictures from the 6<sup>th</sup> convocation at Indian Institute of Technology Dharwad. The convocation took place on 19<sup>th</sup> of July, 2025. I received my B.Tech (Bachelor of Technology) degree in Electrical Engineering. Additionally, I was awarded the President of India Gold Medal for outstanding academic performance. 
 
-Please feel free to view the images of this event. If you wish to use these images for any purpose, and I do not know you, I request that you contact **me** and **IIT Dharwad admin** to obtain the necessary permission(s). Some of these images may be privately owned.  
+`Note:` Please feel free to view the images of this event. If you wish to use these images for any purpose, __and__ I do not know you, I request that you contact **me** and **IIT Dharwad admin** to obtain the necessary permission(s). Some of these images may be privately owned.  
 
 Images are zoomable. Simply click on them to view the high-res versions.
 
@@ -73,5 +73,5 @@ Some of the other images from the ceremony:
     </div>
 </div>
 <div class="caption">
-    Me with my professors and mentors. (From left to right) (1) Prof. Bharat B. N. (2) Prof. Naveen M. B., and (3) Prof. Rajshekhar V. Bhat.
+    Me with my professors and mentors. (From left to right) (1) <a href="https://bharathbettagere.github.io/mywebpage/">Prof. Bharat B. N.</a> (2) <a href="https://iitdh.ac.in/naveenmb/">Prof. Naveen M. B.</a>, and (3) <a href="https://rajshekharvbhat.github.io/">Prof. Rajshekhar V. Bhat.</a>
 </div>

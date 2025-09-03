@@ -330,13 +330,13 @@ ul.task-list input[type="checkbox"] {
       }
 
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-hover-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-hover-color);
         }
       }
     }
@@ -608,11 +608,12 @@ footer.sticky-bottom {
     }
 
     a {
-      color: var(--global-text-color);
+      color: var(--global-theme-color);
       text-decoration: none;
 
       &:hover {
         color: var(--global-theme-color);
+        text-decoration: underline;
       }
     }
 
