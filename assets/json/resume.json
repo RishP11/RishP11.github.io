@@ -7,6 +7,16 @@
   },
   "education": [
     {
+      "institution": "Stanford University",
+      "location": "California, US",
+      "url": "https://www.stanford.edu/",
+      "area": "Dept. of Electrical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2025-09",
+      "endDate": "2027-06",
+      "courses": []
+    },
+    {
       "institution": "Indian Institute of Technology Dharwad",
       "location": "Karnataka, India",
       "url": "https://www.iitdh.ac.in/",
@@ -14,7 +24,6 @@
       "studyType": "B.Tech",
       "startDate": "2021-12",
       "endDate": "2025-07",
-      "score": "10",
       "courses": ["Digital Systems and Lab, Digital Signal Processing, Microprocessors and Microcontrollers, Digital Communication and Coding Theory, Wireless Communications, VLSI Design, Embedded Systems Design and Lab, Next-Generation Wireless Networks, Mathematics for Data Science, Probability Models and Applications, Pattern Recognition and Machine Learning, Optimization Theory and Algorithms."]
     }
   ],

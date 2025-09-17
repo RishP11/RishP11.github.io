@@ -9,7 +9,7 @@ profile:
   image: rishabh_pomaje_casual.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>San Francisco, California.</p>
+    <p>Stanford, California.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I completed my bachelors at Department of EECE at Indian Institute of Technology Dharwad. I am passionate about interdisciplinary research in fields of Electrical Engineering and Computer Science. My academic and research interests span the fields of Computer Architecture, Next Generation Communication Systems, Embedded Systems, and theoretical Artificial Intelligence and Machine Learning. 
+I am a **masters student** at **Department of Electrical Engineering** at **Stanford University**. I am passionate about interdisciplinary research in fields of Electrical Engineering and Computer Science. My academic and research interests span the fields of **Computer Architecture, Next Generation Communication Systems, Embedded Systems, and theoretical Artificial Intelligence and Machine Learning**. 
 
 Beyond academics, I am enthusiastic about technology, consumer electronics, engineering innovations, scientific advancements, and an automotive enthusiast who follows Formula 1.
 
