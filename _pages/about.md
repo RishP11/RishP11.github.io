@@ -29,4 +29,4 @@ I am a **masters student** at **Department of Electrical Engineering** at **Stan
 
 Beyond academics, I am enthusiastic about technology, consumer electronics, engineering innovations, scientific advancements, and an automotive enthusiast who follows Formula 1.
 
-Feel free to connect.
+Feel free to connect!
