@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **masters student** at **Department of Electrical Engineering** at **Stanford University**. I am passionate about interdisciplinary research in fields of Electrical Engineering and Computer Science. My academic and research interests span the fields of **Computer Architecture, Next Generation Communication Systems, Embedded Systems, and theoretical Artificial Intelligence and Machine Learning**. 
+I am a **masters student** at **Department of Electrical Engineering** at **Stanford University**. I am passionate about interdisciplinary research in fields of Electrical Engineering and Computer Science. My academic and research interests span the fields of **Digital Hardware and Accelerator Design for Artificial Intelligence/Machine Learning workloads and other applications. My previous research revolved around the next generation communication systems and application of AI/ML algorithms in such systems.** 
 
 Beyond academics, I am enthusiastic about technology, consumer electronics, engineering innovations, scientific advancements, and an automotive enthusiast who follows Formula 1.
 
